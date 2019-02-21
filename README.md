@@ -14,3 +14,11 @@ Problems unsolved:
 - Good enough character segmentation (which is complex problem on its own accord)
 - Maintenance of order of detected words when not written in one column
 - Creation of BIG data set along with ligatures, almost no recognition is received either from SVM, KNN or CNN approaches 
+
+References:
+- https://github.com/Breta01/handwriting-ocr
+- https://github.com/MonsieurV/py-findpeaks
+- https://core.ac.uk/download/pdf/82703219.pdf
+- https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+- https://bretahajek.com/2017/01/scanning-documents-photos-opencv/
+- https://github.com/ftn-ai-lab/sc-2018-siit
